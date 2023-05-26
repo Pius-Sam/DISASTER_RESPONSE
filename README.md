@@ -28,10 +28,10 @@ This can be found in `app/run.py`
 
 
 ## Required libraries
-* nltk==3.4.5
-* numpy==1.18.1
-* pandas==1.0.1
-* scikit-learn==0.22.2.post1
-* SQLAlchemy==1.3.13
-* Flask==1.1.1
-* plotly==4.6.0
+* nltk
+* numpy
+* pandas
+* scikit-learn
+* SQLAlchemy
+* Flask
+* plotly
