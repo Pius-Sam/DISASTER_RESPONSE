@@ -1,9 +1,5 @@
 # Disaster Response Pipeline Project
 
-This is the second project from the Data Scientist Nanodegree Program.
-
-It consist of 3 parts:
-
 ### ETL Pipeline 
 This part takes the two csv files, clean them up and then put it into an database.\
 This can be found in `data/process_data.py`\
